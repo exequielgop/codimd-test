@@ -1,4 +1,4 @@
-# RFC 001: API Versioning Strategy
+# RFC 001: API Version Strategies
 
 > Status: draft
 > Author: Engineering Team
