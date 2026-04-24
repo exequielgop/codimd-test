@@ -17,6 +17,7 @@ Currently, each team handles versioning differently:
 - Payments uses URL path versioning (`/v1/payments`, `/v2/payments`)
 - Users service has no versioning at all
 - Notifications uses header-based versioning (`X-API-Version: 2`)
+- Cambio 1
 
 This inconsistency increases cognitive load and makes cross-service integration harder.
 
