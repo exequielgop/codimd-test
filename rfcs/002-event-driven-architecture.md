@@ -1,4 +1,4 @@
-# RFC 002: Event-Driven Architecture for Domains Event
+# RFC 002: Event-Driven Architecture for Domain Events
 
 > Status: review
 > Author: Platform Team
