@@ -1,6 +1,6 @@
 resource "aws_kms_key" "audit_logs" {
   description             = "KMS key for audit logs bucket encryption - poc-de16802b"
-  deletion_window_in_days = 7
+  deletion_window_in_days = 30
   enable_key_rotation     = true
 
   policy = jsonencode({
